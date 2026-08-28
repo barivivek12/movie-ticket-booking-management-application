@@ -188,19 +188,3 @@ Vivek Bari
 
 This project was developed as part of the National Internship Program (NIP) / Pega Academy project requirements.
 
-Important before you push to GitHub
-
-Create your repository like this:
-
-Movie-Ticket-Booking-Management-Application
-│
-├── README.md
-│
-├── images
-│   ├── blueprint.png
-│   ├── workflow.png
-│   ├── data-objects.png
-│   └── application-preview.png
-│
-└── documentation
-    └── Vivek_Bari.docx
